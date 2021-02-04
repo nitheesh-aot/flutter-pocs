@@ -12,6 +12,7 @@ import 'package:flutter/material.dart';
 // void main() => runApp(MyShoppingApp());
 
 // import 'scanner/scanner.dart';
-import 'scanner/scanner2.dart';
+// import 'scanner/scanner2.dart';
+import 'vision/ocrscan.dart';
 
 void main() => runApp(MyApp());

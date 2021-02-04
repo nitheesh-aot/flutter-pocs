@@ -31,6 +31,9 @@ dependencies:
   english_words: ^3.1.5
   barcode_scan: ^1.0.0
   flutter_barcode_scanner: ^1.0.2
+  simple_ocr_plugin: ^0.1.1
+  image_picker: ^0.6.7+22
+  gallery_saver: ^2.0.3
 
 dev_dependencies:
   flutter_test:
