@@ -13,6 +13,7 @@ import 'package:flutter/material.dart';
 
 // import 'scanner/scanner.dart';
 // import 'scanner/scanner2.dart';
-import 'vision/ocrscan.dart';
+// import 'vision/ocrscan.dart';
+import 'vision/qrscan.dart';
 
 void main() => runApp(MyApp());

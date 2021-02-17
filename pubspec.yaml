@@ -34,6 +34,7 @@ dependencies:
   simple_ocr_plugin: ^0.1.1
   image_picker: ^0.6.7+22
   gallery_saver: ^2.0.3
+  qr_mobile_vision: ^2.0.0
 
 dev_dependencies:
   flutter_test:
